@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Java Developer | OOPs Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hacker-Sourav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hacker-Sourav?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SouravGhosh7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SouravGhosh7?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node.js** and enhancing my **Java** skills
 - 📚 I’m passionate about **Object-Oriented Programming (OOP)** and enjoy solving problems with it
-- 💼 I’m working on my college assignments in Java, which you can find in my [JAVA_for_OOPs](https://github.com/Hacker-Sourav/JAVA_for_OOPs) repository
+- 💼 I’m working on my college assignments in Java, which you can find in my [JAVA_for_OOPs](https://github.com/SouravGhosh7/JAVA_for_OOPs) repository
 - 🔭 I’m exploring **back-end development** to expand my skillset beyond front-end development
 - ⚡ Fun fact: I'm a tech enthusiast and love experimenting with different technologies
 
@@ -33,24 +33,24 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacker-Sourav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SouravGhosh7&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacker-Sourav&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravGhosh7&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-- 🔗 [JAVA_for_OOPs](https://github.com/Hacker-Sourav/JAVA_for_OOPs) - A repository of my Java assignments focusing on Object-Oriented Programming.
+- 🔗 [JAVA_for_OOPs](https://github.com/SouravGhosh7/JAVA_for_OOPs) - A repository of my Java assignments focusing on Object-Oriented Programming.
 - More projects to come as I explore more areas in **Java** and **Node.js**!
 
 ---
 
 ## 🏆 LeetCode Progress
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Hacker-Sourav/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/SouravGhosh7/)
 
 ---
 
